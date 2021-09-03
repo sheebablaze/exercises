@@ -8,4 +8,3 @@ def number_type(num)
 end
 puts number_type(20)
 puts number_type(21)
-
